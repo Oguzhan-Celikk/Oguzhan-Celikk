@@ -54,13 +54,4 @@ python -m app.main  # veya notebook/ana script'e göre
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Oguzhan-Celikk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oguzhan-Celikk&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">........ 🚀</p>
+<p align="center"></p>
