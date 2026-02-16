@@ -1,7 +1,7 @@
 # Merhaba, Ben Oğuzhan Çelik 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Veritaban%C4%B1+Tasar%C4%B1mc%C4%B1s%C4%B1;Makine+%C3%96%C4%9Frenmesi+%26+IoT" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Veritaban%C4%B1+Tasar%C4%B1mc%C4%B1s%C4%B1;Makine+%C3%96%C4%9Frenmesi+%26+IoT" alt="typing" />
 </p>
 
 ---
@@ -10,9 +10,8 @@
 
 Bilgisayar Mühendisliği öğrencisiyim. Veri odaklı uygulamalar, gömülü sistemler ve güvenlik alanlarında projeler geliştiriyorum. Araştırma odaklı yaklaşımım, sürdürülebilir ve test edilebilir çözümler üretmeye dayanır.
 
-- 🔭 Şu anda aktif projelerim: Akıllı Ayna (edge AI + gesture/voice), IoT Su Seviyesi Erken Uyarı Sistemi (Bosphorus case study).
-- 🌱 İlgi: Makine Öğrenmesi, IoT, Veritabanı Tasarımı, Siber Güvenlik.
-- ⚡ Eğlenceli: Edge cihazlarda MediaPipe ve sesli tetikleyicilerle çalışmaktan hoşlanıyorum.
+- 🔭 Şu anda aktif projelerim: Akıllı Ayna (Personal customazition + gesture/voice control).
+- 🌱 İlgi: Makine Öğrenmesi, IoT, Veritabanı Tasarımı.
 
 ---
 
@@ -64,9 +63,4 @@ python -m app.main  # veya notebook/ana script'e göre
 
 ---
 
-### 📫 İletişim
-
-- E-posta: [oguzhan.ccelik0@gmail.com](mailto:oguzhan.ccelik0@gmail.com)
-- LinkedIn: [Oguzhan Çelik](https://linkedin.com/in/oguzhan-celikk)
-
-<p align="center">Sürekli öğreniyor ve inşa ediyorum... 🚀</p>
+<p align="center">........ 🚀</p>
